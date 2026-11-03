@@ -2,13 +2,17 @@
 
 设备管理与 MCAP 视频 / IMU 数据回放工具，支持 Ubuntu、Windows 和 Android。
 
-本仓库提供公开说明与软件下载。当前版本为 **0.0.1.21 预发行**。
+本仓库提供公开说明与软件下载。
+
+<!-- release-downloads:start -->
+当前版本：**0.0.1.21 预发行**。
 
 | 平台 | 下载 |
 | --- | --- |
-| Windows 10 / 11 x64 | [安装版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_windows-x64-setup.exe) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_windows-x64-portable.zip) |
-| Ubuntu 22.04+ x64 | [deb 安装包](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_amd64.deb) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_linux-x64.tar.gz) |
-| Android 7.0+ arm64 | [内部测试 APK](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_android-arm64-internal-debug.apk) |
+| Windows x64 | [安装版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_windows-x64-setup.exe) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_windows-x64-portable.zip) |
+| Ubuntu x64 | [deb](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_amd64.deb) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_linux-x64.tar.gz) |
+| Android arm64 | [内部测试 APK](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.21/rt-console_0.0.1.21_android-arm64-internal-debug.apk) |
+<!-- release-downloads:end -->
 
 [全部版本与 SHA256 校验文件](https://github.com/RankTogether/RT-Console/releases) · [安装说明](docs/installation.md) · [设备连接](docs/devices.md) · [数据回放](docs/playback.md) · [第三方声明](THIRD_PARTY_NOTICES.md)
 
