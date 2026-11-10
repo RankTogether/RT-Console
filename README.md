@@ -5,13 +5,13 @@
 本仓库提供公开说明与软件下载。
 
 <!-- release-downloads:start -->
-当前版本：**0.0.1.29 预发行**。
+当前 Windows 版本：**0.0.1.31 预发行**（本次仅 Windows x64）。
 
 | 平台 | 下载 |
 | --- | --- |
-| Windows x64 | [安装版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.29/rt-console_0.0.1.29_windows-x64-setup.exe) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.29/rt-console_0.0.1.29_windows-x64-portable.zip) |
-| Ubuntu x64 | [deb](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.29/rt-console_0.0.1.29_amd64.deb) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.29/rt-console_0.0.1.29_linux-x64.tar.gz) |
-| Android arm64 | [APK](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.29/rt-console_0.0.1.29_android-arm64.apk) |
+| Windows x64 | [安装版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.31/rt-console_0.0.1.31_windows-x64-setup.exe) · [便携版](https://github.com/RankTogether/RT-Console/releases/download/v0.0.1.31/rt-console_0.0.1.31_windows-x64-portable.zip) |
+
+其他平台请从[历史发行](https://github.com/RankTogether/RT-Console/releases)下载。
 <!-- release-downloads:end -->
 
 [全部版本与 SHA256 校验文件](https://github.com/RankTogether/RT-Console/releases) · [安装说明](docs/installation.md) · [设备连接](docs/devices.md) · [数据回放](docs/playback.md) · [第三方声明](THIRD_PARTY_NOTICES.md)
