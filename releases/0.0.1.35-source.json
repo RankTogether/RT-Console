@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1.35",
+  "source_revision": "ecbe2144cdd52e8d33bc000a677c7f5a2e845a44",
+  "source_repository": "RankTogether/RT-Console-Private",
+  "product": {
+    "schema_version": 2,
+    "display_name": "RT Console",
+    "artifact_name": "rt-console"
+  }
+}
